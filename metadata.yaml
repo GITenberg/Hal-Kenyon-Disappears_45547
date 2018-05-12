@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2211
     wikipedia: http://www.gutenberg.org/ebooks/author/2246
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45547#Hal-Kenyon-Disappears
 gutenberg_issued: '2014-05-01'
 gutenberg_type: Text
 identifiers:

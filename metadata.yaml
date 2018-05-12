@@ -1,0 +1,29 @@
+_repo: Hal-Kenyon-Disappears_45547
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45547-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stuart, Gordon (Adventure story writer)
+    gutenberg_agent_id: '2211'
+    url: http://www.gutenberg.org/2009/agents/2211
+    wikipedia: http://www.gutenberg.org/ebooks/author/2246
+description: ''
+gutenberg_issued: '2014-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Airplanes -- Juvenile fiction'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcsh 'Missing children -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PZ'
+title: Hal Kenyon Disappears
+url: http://www.gutenberg.org/ebooks/45547
